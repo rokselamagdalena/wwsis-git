@@ -10,3 +10,4 @@ flanders
 nelson
 apu
 >>>>>>> origin/lista_alternatywna
+aaa
